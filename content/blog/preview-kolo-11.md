@@ -6,7 +6,7 @@ title = "Preview 11. kola Tipsport Extraligy"
 
 | Datum a čas | Utkání (Domací x Hosté) | Vysíláno na | Poznámka |
 | :--- | :---: | :---: | :--- |
-| 22.09. 18:00 | **HC Dynamo Pardubice** *vs* **Bílí Tygři Liberec** | - | předehrávka, <br>výsledek 4:5 |
+| 22.09. 18:00 | **HC Dynamo Pardubice** *vs* **Bílí Tygři Liberec** | - | předehrávka, výsledek 4:5 |
 | 15.10. 17:30 | **HC VERVA Litvínov** *vs* **Mountfield HK** | Oneplay Sport | - |
 | 16.10. 17:00 | **HC Oceláři Třinec** *vs* **BK Mladá Boleslav** | Oneplay Sport | - |
 | 16.10. 17:30 | **HC Škoda Plzeň** *vs* **HC Sparta Praha** | Oneplay Sport | - |
