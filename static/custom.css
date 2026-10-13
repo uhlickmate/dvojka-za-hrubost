@@ -1,0 +1,33 @@
+/* Increase the overall container maximum width */
+:root {
+    --max-width: 900px; /* Default in tabi is usually around 650px–750px; adjust to your preference */
+}
+
+/* Target main layout containers in tabi */
+main,
+article,
+.content,
+.container {
+    max-width: 900px !important;
+    width: 100%;
+}
+
+table th,
+table td {
+    font-size: 16px !important;
+}
+
+/* Reduce cell padding (makes tables more compact) */
+article table th,
+article table td {
+    padding: 0 0;
+}
+
+/* Force tables and table wrappers to fill full container width */
+article table,
+.post table,
+table {
+    width: 100% !important;
+    max-width: 100% !important;
+    table-layout: auto; /* Ensures columns resize based on content */
+}
